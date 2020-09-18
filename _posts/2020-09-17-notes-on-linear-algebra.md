@@ -7,6 +7,8 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
+# Notes on the book Finite-Dimensional Vector Spaces
+
 ## Chapter 1
 
 Download [Chapter 1](https://github.com/ruimp/linalg/archive/master.zip).
