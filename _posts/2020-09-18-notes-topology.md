@@ -14,3 +14,7 @@ I will try to keep the notes updated on a lecture by lecture basis. You can find
 ## Lecture 1 - 22/09/2020
 
 [Lecture 1 - Introduction](https://github.com/ruimp/topology/raw/master/lectures/lec1/lec1.pdf) 
+
+## Lecture 2 - 24/09/2020
+
+[Lecture 1 - Introduction](https://github.com/ruimp/topology/raw/master/lectures/lec2/lec2.pdf) 
