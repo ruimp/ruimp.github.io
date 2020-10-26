@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on Differential Geometry"
+title: "Differential Geometry"
 author: "rmp"
 categories: Notes
 tags: [notes, topology]
