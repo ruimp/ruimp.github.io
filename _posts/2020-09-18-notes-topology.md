@@ -11,7 +11,7 @@ image: topology-1.jpg
 
 These consist of solution to the problem from the boo *Topology Without Tears* by Sidney Morris.
 
-[Solutions](https://github.com/ruimp/topology/blob/master/exercises/exercises.pdf)
+[Solutions](https://github.com/ruimp/topology/raw/master/exercises/exercises.pdf)
 
 # Notes on the lectures from the course Introduction to Topology
 
