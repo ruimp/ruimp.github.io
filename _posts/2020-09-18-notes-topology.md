@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Notes on Topology"
+title: "Topology"
 author: "rmp"
 categories: Notes
 tags: [notes, topology]
 image: topology-1.jpg
 ---
+
+# Exercises
+
+These consist of solution to the problem from the boo *Topology Without Tears* by Sidney Morris.
+
+[Solutions](https://github.com/ruimp/topology/blob/master/exercises/exercises.pdf)
 
 # Notes on the lectures from the course Introduction to Topology
 
