@@ -9,7 +9,7 @@ image: topology-1.jpg
 
 # Exercises
 
-These consist of solution to the problem from the boo *Topology Without Tears* by Sidney Morris.
+These consist of solution to the problem from the book *Topology Without Tears* by Sidney Morris.
 
 [Solutions](https://github.com/ruimp/topology/raw/master/exercises/exercises.pdf)
 
