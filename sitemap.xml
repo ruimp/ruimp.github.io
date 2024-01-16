@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>ruimp.github.io/about/</loc>
+    <loc>https://ruimp.github.io/about/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>ruimp.github.io/posts/phd_hunt/</loc>
+    <loc>https://ruimp.github.io/posts/phd_hunt/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>ruimp.github.io/posts/</loc>
+    <loc>https://ruimp.github.io/posts/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>ruimp.github.io/</loc>
+    <loc>https://ruimp.github.io/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>ruimp.github.io/posts/welcome/</loc>
+    <loc>https://ruimp.github.io/posts/welcome/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>ruimp.github.io/categories/</loc>
+    <loc>https://ruimp.github.io/categories/</loc>
   </url><url>
-    <loc>ruimp.github.io/tags/</loc>
+    <loc>https://ruimp.github.io/tags/</loc>
   </url>
 </urlset>
