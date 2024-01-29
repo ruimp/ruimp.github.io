@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="148.0mm" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 595.35 419.58" width="210.0mm" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Space">
+<path d="M56.157 223.016C78.6429 160.962 108.315 122.459 238.49 105.113C389.064 85.0482 466.104 120.992 511.467 147.029C588.552 191.273 521.8 259.798 473.521 276.617C421.949 294.584 390.503 289.531 311.831 297.641C233.16 305.752 187.405 340.539 131.999 341.375C84.3364 342.095 36.7425 276.593 56.157 223.016Z" fill="#ffffd7" fill-rule="nonzero" opacity="1" stroke="#131313" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<text fill="#131313" font-family="STIXTwoText" font-size="24" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 157.269 135.876)" x="0" y="0">
+<tspan textLength="104.328" x="0" y="18">Spacetime</tspan>
+</text>
+</g>
+<g id="W">
+<path d="M131.521 221.058C154.028 160.04 184.392 182.204 212.24 187.004C263.602 195.857 269.579 157.526 290.863 136.567C318.164 109.683 381.84 140.228 448.955 159.298C485.712 169.742 473.412 222.304 439.907 245.58C409.524 266.687 290.996 257.238 253.724 262.131C187.652 270.805 174.08 297.96 142.924 303.34C102.56 310.311 121.942 247.028 131.521 221.058Z" fill="#ffe193" fill-rule="nonzero" opacity="1" stroke="#131313" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<text fill="#131313" font-family="STIXTwoMath-Regular" font-size="24" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 284.847 226.833)" x="0" y="0">
+<tspan textLength="22.656" x="0" y="18">W</tspan>
+</text>
+</g>
+<g id="V">
+<path d="M340.535 176.281C345.911 187.698 395.024 177.744 401.388 192.966C415.3 226.243 363.432 239.056 339.755 212.768C329.826 201.745 305.772 209.79 307.331 193.163C310.636 157.924 333.859 162.101 340.535 176.281Z" fill="#a9e0ff" fill-rule="nonzero" opacity="1" stroke="#131313" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<text fill="#131313" font-family="STIXTwoMath-Regular" font-size="24" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 346.51 192.324)" x="0" y="0">
+<tspan textLength="16.32" x="0" y="18">V</tspan>
+</text>
+</g>
+<g id="U">
+<path d="M166.922 237.005C171.116 218.45 195.054 219.242 209.472 211.221C240.99 193.685 273.413 212.371 244.759 233.122C218.776 251.94 223.064 247.841 196.088 252.162C161.141 257.759 165.673 242.533 166.922 237.005Z" fill="#b2f8cf" fill-rule="nonzero" opacity="1" stroke="#131313" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.5"/>
+<text fill="#131313" font-family="STIXTwoMath-Regular" font-size="24" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 200.409 220.324)" x="0" y="0">
+<tspan textLength="18.048" x="0" y="18">U</tspan>
+</text>
+</g>
+</svg>
