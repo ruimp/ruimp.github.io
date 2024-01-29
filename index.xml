@@ -16,13 +16,6 @@
       <description>Vertex Superalgebras from Factorization Algebras I&amp;rsquo;ve recently completed my master&amp;rsquo;s research project, which culminated in the defense of my master&amp;rsquo;s thesis titled Vertex Superalgebras from Factorizaton Algebras. During this work I was supported by a Master&amp;rsquo;s Research Studentship from IST-ID and enjoyed the supervision and collaboration of John Huerta.&#xA;What is this about? My thesis has two main goals:&#xA;Provide a gentle and relatively self-contained introduction to the factorization algebra approach to quantum field theory developed by Kevin Costello and Owen Gwilliam.</description>
     </item>
     <item>
-      <title>Factorization Algebras</title>
-      <link>/posts/fact_alg/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/fact_alg/</guid>
-      <description>Crash Course No time for all the jargon? Here&amp;rsquo;s your crash course on factorization algebras.&#xA;What is a factorization algebra? A factorization algebra assigns to regions of spacetime the observables measurable therein. Crucially, it does so in a way that is functorial.&#xA;For the example illustrated, this means that the observables associated to subregions $U$ and $V$ are somehow related to the observables measurable in the larger region $W$, and those related to those measurable in the whole of spacetime!</description>
-    </item>
-    <item>
       <title>About me</title>
       <link>/about/about/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
