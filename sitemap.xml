@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://ruimp.com/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/master_thesis/</loc>
+    <loc>https://ruimp.com/posts/master_thesis/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://ruimp.com/posts/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://ruimp.com/about/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/about/</loc>
+    <loc>https://ruimp.com/about/about/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/jobs_market/</loc>
+    <loc>https://ruimp.com/posts/jobs_market/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/welcome/</loc>
+    <loc>https://ruimp.com/posts/welcome/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://ruimp.com/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ruimp.com/tags/</loc>
   </url>
 </urlset>
