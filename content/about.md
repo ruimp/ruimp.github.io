@@ -4,7 +4,13 @@ date: "2024-01-16"
 layout: single
 ---
 
-I'm passionate about **mathematics** and its applications to **physics**. Reach me at:
+Hi there! My name is Rui and I'm from a little town in Portugal called
+[Guimarães](https://www.visitguimaraes.travel/#).
+
+Currently, I am a PhD student in mathematics at
+[UMass Amherst](https://www.umass.edu).
+I'm passionate about mathematics and its applications to physics.
+Reach me at:
 
 - **email**: [rmp at ruimp.com](mailto:rmp@ruimp.com)
 - **github**: [github.com/ruimp](https://github.com/ruimp/)
@@ -12,19 +18,19 @@ I'm passionate about **mathematics** and its applications to **physics**. Reach 
 
 ## Research Interests
 
-- [derived geometry](https://en.wikipedia.org/wiki/Derived_algebraic_geometry)
-- [operads](https://en.wikipedia.org/wiki/Operad) and [higher strucutres](https://en.wikipedia.org/wiki/Higher_category_theory)
-- [factorization algebras](https://en.wikipedia.org/wiki/Factorization_algebra)
-- [homotopy Lie algebras](https://en.wikipedia.org/wiki/Homotopy_Lie_algebra) 
-- [supergeometry](https://en.wikipedia.org/wiki/Supergeometry)
-- [(shifted) Poisson geometry](https://en.wikipedia.org/wiki/Poisson_manifold) 
-- [(topological) quantum field theory](https://en.wikipedia.org/wiki/Topological_quantum_field_theory)
+I fascinated by the structures that arise in mathematical physics.
+I enjoy thinking about
+[factorization algebras](https://en.wikipedia.org/wiki/Factorization_algebra),
+[derived geometry](https://en.wikipedia.org/wiki/Derived_algebraic_geometry),
+[BV formalism](https://en.wikipedia.org/wiki/Batalin–Vilkovisky_formalism),
+and
+[supergeometry](https://en.wikipedia.org/wiki/Supergeometry).
 
 ## Education
 
 ### MSc in Applied Mathematics
 
-Instituto Superior Técnico, University of Lisbon - 2021 | 2023
+[Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), University of Lisbon - 2021 | 2023
 
 **Thesis** : [Vertex Superalgebras from Prefactorization Algebras](https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/565303595503872)
 
@@ -32,7 +38,7 @@ Instituto Superior Técnico, University of Lisbon - 2021 | 2023
 
 ### BSc in Physics
 
-University of Porto - 2017 | 2021
+[University of Porto](https://www.up.pt/portal/en/) - 2017 | 2021
 
 ## Publications
 ### Physics

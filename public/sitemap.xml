@@ -9,18 +9,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ruimp.com/posts/about/</loc>
-    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ruimp.com/posts/</loc>
-    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ruimp.com/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
