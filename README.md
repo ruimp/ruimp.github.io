@@ -1,1 +1,1 @@
-# Web Resume - Rui Peixoto
+# Web Resume
