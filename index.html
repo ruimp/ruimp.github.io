@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <meta name="description" content="">
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-[var(--background)] text-[var(--text)] transition-colors duration-300 font-sans">
+    <div class="absolute top-0 left-0 w-full h-full overflow-hidden -z-10">
+        <div class="absolute top-20 left-10 w-40 h-40 rounded-full bg-[var(--primary)] opacity-10 floating"></div>
+        <div class="absolute bottom-10 right-20 w-60 h-60 rounded-full bg-[var(--secondary)] opacity-10 floating" style="animation-delay: 2s;"></div>
+        <div class="absolute top-1/3 right-1/4 w-32 h-32 rounded-full bg-[var(--primary)] opacity-10 floating" style="animation-delay: 4s;"></div>
+    </div>
+
+    <div class="container mx-auto px-4 py-8 max-w-5xl">
+        <!-- Header -->
+        <header class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-6">
+    <div>
+        <h1 class="text-3xl font-bold mb-1">Rui Peixoto</h1>
+        <p class="text-m opacity-80 max-w-lg">
+            Mathematician looking for interesting problems.
+        </p>
+    </div>
+    <div class="flex flex-col items-end">
+        <div class="flex items-center mb-2">
+            <i class="fas fa-envelope mr-2 text-[var(--primary)]"></i>
+            <span class="text-sm"><a href="mailto:john.doe@example.com">rmp@ruimp.com</a></span>
+        </div>
+        <div class="flex items-center mb-2">
+            <i class="fas fa-phone mr-2 text-[var(--primary)]"></i>
+            <span class="text-sm">(+351) 915 374 745</span>
+        </div>
+        <div class="flex items-center mb-2">
+            <i class="fas fa-map-marker-alt mr-2 text-[var(--primary)]"></i>
+            <span class="text-sm">Lisbon, Portugal</span>
+        </div>
+        <div class="flex items-center">
+            <i class="fab fa-linkedin mr-2 text-[var(--primary)]"></i>
+            <span class="text-sm"><a href="https://linkedin.com/in/ruimpxt">linkedin.com/in/ruimpxt</a></span>
+        </div>
+    </div>
+</header>
+
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+
+            <!-- Left Column -->
+            <div class="lg:col-span-2 space-y-8">
+                <!-- Experience -->
+                <section class="resume-section bg-[var(--card)] p-6 rounded-lg shadow-sm">
+    <h2 class="text-xl font-bold mb-4 border-b pb-2 border-[var(--primary)]">
+        Professional Experience
+    </h2>
+
+    <div class="mb-6">
+        <div class="flex justify-between items-start">
+            <h3 class="font-semibold">
+                Software Developer
+            </h3>
+            <span class="text-xs bg-[var(--primary)] text-white px-2 py-1 rounded">
+                2025
+            </span>
+        </div>
+        <p class="text-sm text-[var(--primary)] mb-2">
+            <a href=https://freiheit.com>freiheit.com</a>
+        </p>
+        <ul class="list-disc list-inside text-sm space-y-1 pl-2">
+            <li>
+                Developed enterprise-scale logistics and accounting software for the WaWi Nexus project, a cloud-based end-to-end platform powering
+                the businesses of the Schwarz Group.
+            </li>
+            <li>
+                Delivered the business-critical DAY module for WaWi Nexus, deployed across Lidl warehouses to manage long-running daily inventory
+                and accounting operations.
+            </li>
+            <li>
+                Ensured production stability of a mission-critical, high-availability system through advanced debugging, performance optimization, and
+                incident resolution.
+            </li>
+        </ul>
+    </div>
+    <div class="flex flex-wrap gap-2 mb-6">
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Go
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Typescript
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Gupta SQLWindows
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Microservices
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            gRPC
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            REST
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Protobuf
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Kubernetes
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Terraform
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            MongoDB
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Oracle Database
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Datadog
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Vue.js
+        </span>
+    </div>
+
+    <div class="mb-6">
+        <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Teaching Assistant and Doctoral Researcher</h3>
+            <span class="text-xs bg-[var(--primary)] text-white px-2 py-1 rounded">
+                2024 &#8211 2025
+            </span>
+        </div>
+        <p class="text-sm text-[var(--primary)] mb-2">University of Massachusetts, Amherst</p>
+        <ul class="list-disc list-inside text-sm space-y-1 pl-2">
+            <li>Taught advanced calculus and linear algebra to more than 300 students.</li>
+            <li>Engaged in research in mathematical physics.
+            Advisor: <a href="https://websites.umass.edu/ogwilliam/">Owen Gwilliam</a></li>
+        </ul>
+    </div>
+    <div class="flex flex-wrap gap-2">
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Teaching and Mentorship
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Mathematical Physics
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Factorization Algebras
+        </span>
+        <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">
+            Derived Geometry
+        </span>
+    </div>
+</section>
+
+
+                <!-- Education -->
+                <section class="resume-section bg-[var(--card)] p-6 rounded-lg shadow-sm">
+    <h2 class="text-xl font-bold mb-4 border-b pb-2 border-[var(--primary)]">Education</h2>
+
+    <div class="mb-6">
+        <div class="flex justify-between items-start">
+            <h3 class="font-semibold">
+                Master of Science in Applied Mathematics and Computation
+            </h3>
+            <span class="text-xs bg-[var(--primary)] text-white px-2 py-1 rounded">
+                2021 &#8211 2023
+            </span>
+        </div>
+        <p class="text-sm text-[var(--primary)] mb-2">IST, University of Lisbon</p>
+        <ul class="list-disc list-inside text-sm space-y-1 pl-2">
+            <li>GPA: 19/20 &#8212 highest GPA of graduating year</li>
+            <li>Thesis: Vertex Superalgebras from Prefactorization Algebras &#8212
+            Advisor: <a href="https://www.math.tecnico.ulisboa.pt/~jhuerta/">John Huerta</a></li>
+        </ul>
+    </div>
+
+    <div>
+        <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Bachelor of Science in Physics</h3>
+            <span class="text-xs bg-[var(--primary)] text-white px-2 py-1 rounded">
+                2017 &#8211 2021
+            </span>
+        </div>
+        <p class="text-sm text-[var(--primary)] mb-2">University of Porto</p>
+        <ul class="list-disc list-inside text-sm space-y-1 pl-2">
+            <li>GPA: 18/20 &#8212 highest GPA of graduating year</li>
+        </ul>
+    </div>
+</section>
+
+
+                <!-- Projects -->
+                <section class="resume-section bg-[var(--card)] p-6 rounded-lg shadow-sm">
+    <h2 class="text-xl font-bold mb-4 border-b pb-2 border-[var(--primary)]">Projects</h2>
+
+    <div class="mb-6">
+        <div class="mb-2">
+        <h3 class="font-semibold mb-1">
+            Vertex Superalgebras from Prefactorization Algebras
+        </h3>
+        <ul class="list-disc list-inside text-sm space-y-1 pl-2">
+            <li>
+                Generalized a theorem of Costello and Gwilliam to construct factorization algebras encoding vertex superalgebras arising in supercomformal field theories.
+            </li>
+        </ul>
+        </div>
+        <div class="flex flex-wrap gap-2">
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Mathematical Physics</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Quantum Field Theory</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Vertex Algebras</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Higher Category Theory</span>
+        </div>
+    </div>
+
+    <div class="mb-6">
+        <div class="mb-2">
+        <h3 class="font-semibold mb-1">Modeling of Optical Systems</h3>
+        <ul class="list-disc list-inside text-sm space-y-1 pl-2">
+            <li>
+                Collaborated with experimental group at INESC TEC to propose a novel design for environmental optical sensors.
+            </li>
+            <li>
+                Developed a perturbative analytical model to characterize the resonant behavior of graphene-dielectric coatings in optical fibers.
+            </li>
+            <li>
+                Implemented a transfer-matrix algorithm to model and analyze the critical optical response of multilayer structures.
+            </li>
+            <li>
+                Published at <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044041">Phys. Rev. Applied</a>.
+            </li>
+        </ul>
+        </div>
+        <div class="flex flex-wrap gap-2">
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Python</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Numpy</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Scipy</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Pandas</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Matplotlib</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Julia</span>
+            <span class="text-xs bg-[var(--secondary)] bg-opacity-20 px-2 py-1 rounded">Array Programming</span>
+        </div>
+    </div>
+</section>
+
+
+            </div>
+            <!-- Right Column -->
+            <div class="space-y-8">
+                <!-- Skills -->
+                <!-- adjust width if you want to increase skills percentage -->
+                <!-- adjust width if you want to add increase skills percentage -->
+<section class="resume-section bg-[var(--card)] p-6 rounded-lg shadow-sm">
+    <h2 class="text-xl font-bold mb-4 border-b pb-2 border-[var(--primary)]">Skills</h2>
+
+    <div class="mb-4">
+        <h3 class="text-sm mb-2">Go</h3>
+        <h3 class="text-sm mb-2">Rust</h3>
+        <h3 class="text-sm mb-2">Typescript</h3>
+        <h3 class="text-sm mb-2">Python</h3>
+        <h3 class="text-sm mb-2">Julia</h3>
+        <h3 class="text-sm mb-2">Lua</h3>
+        <h3 class="text-sm mb-2">SQL</h3>
+        <h3 class="text-sm mb-2">Git</h3>
+        <h3 class="text-sm mb-2">Linux</h3>
+        <h3 class="text-sm mb-2">Typst</h3>
+        <h3 class="text-sm mb-2">LaTeX</h3>
+    </div>
+</section>
+
+
+                <!-- Languages -->
+                <section class="resume-section bg-[var(--card)] p-6 rounded-lg shadow-sm">
+    <h2 class="text-xl font-bold mb-4 border-b pb-2 border-[var(--primary)]">Languages</h2>
+
+    <div class="mb-3">
+        <div class="flex justify-between text-sm mb-1">
+            <span>English</span>
+            <span>Proficient &#8212 IELTS 8.5/9</span>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <div class="flex justify-between text-sm mb-1">
+            <span>Portuguese</span>
+            <span>Native</span>
+        </div>
+    </div>
+
+    <div>
+        <div class="flex justify-between text-sm mb-1">
+            <span>Spanish</span>
+            <span>Intermediate</span>
+        </div>
+    </div>
+</section>
+
+
+                <!-- Awards -->
+                <section class="resume-section bg-[var(--card)] p-6 rounded-lg shadow-sm">
+    <h2 class="text-xl font-bold mb-4 border-b pb-2 border-[var(--primary)]">Awards</h2>
+
+    <div class="mb-3">
+        <h3 class="font-semibold text-sm">FCT Research Scholarship</h3>
+        <p class="text-xs text-[var(--primary)]">2022 &#8211 2023</p>
+    </div>
+
+    <div class="mb-3">
+        <h3 class="font-semibold text-sm">Academic Excellence Awards</h3>
+        <p class="text-xs text-[var(--primary)]">2022, 2023, and 2024</p>
+    </div>
+</section>
+
+            </div>
+
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-8 text-center text-xs opacity-70">
+            <p>&copy; 2025 . All rights reserved.</p>
+        </footer>
+
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
