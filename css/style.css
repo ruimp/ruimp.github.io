@@ -1,0 +1,43 @@
+:root {
+    --primary: #004f61;
+    --secondary: #c3dfe9;
+    --background: #ffffff;
+    --text: #22262d;
+    --card: #fcfcfc;
+}
+@keyframes float {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+.floating {
+    animation: float 6s ease-in-out infinite;
+}
+.resume-section {
+    transition: all 0.3s ease;
+}
+.resume-section:hover {
+    transform: translateY(-5px);
+}
+.theme-selector {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.theme-selector:hover {
+    transform: scale(1.1);
+}
+.skill-bar {
+    height: 8px;
+    border-radius: 4px;
+}
+.progress {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 1s ease-in-out;
+}
+
+/*You can write your own CSS below*/
