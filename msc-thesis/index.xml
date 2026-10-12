@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://ruimp.com/msc-thesis/</fr:uri>
+    <fr:display-uri>msc-thesis</fr:display-uri>
+    <fr:route>/msc-thesis/</fr:route>
+    <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">IST, University of Lisbon</fr:meta>
+    <fr:meta name="external">https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>
+    My thesis <fr:link href="https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/565303595503872" type="external">Vertex Superalgebras from Factorization Algebras</fr:link> was supervised by <fr:link href="/johnhuerta/" title="John Huerta" uri="https://ruimp.com/johnhuerta/" display-uri="johnhuerta" type="local">John Huerta</fr:link>.
+</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>https://ruimp.com/msc/</fr:uri>
+            <fr:display-uri>msc</fr:display-uri>
+            <fr:route>/msc/</fr:route>
+            <fr:title text="Master of Science in Applied Mathematics and Computation">Master of Science in Applied Mathematics and Computation</fr:title>
+            <fr:meta name="institution">IST, University of Lisbon</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false" expanded="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://ruimp.com/msc-thesis/</fr:uri>
+                <fr:display-uri>msc-thesis</fr:display-uri>
+                <fr:route>/msc-thesis/</fr:route>
+                <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
+                <fr:taxon>Reference</fr:taxon>
+                <fr:meta name="venue">IST, University of Lisbon</fr:meta>
+                <fr:meta name="external">https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+    My thesis <fr:link href="https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/565303595503872" type="external">Vertex Superalgebras from Factorization Algebras</fr:link> was supervised by <fr:link href="/johnhuerta/" title="John Huerta" uri="https://ruimp.com/johnhuerta/" display-uri="johnhuerta" type="local">John Huerta</fr:link>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://ruimp.com/johnhuerta/</fr:uri>
+            <fr:display-uri>johnhuerta</fr:display-uri>
+            <fr:route>/johnhuerta/</fr:route>
+            <fr:title text="John Huerta">John Huerta</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="position">Mathematician</fr:meta>
+            <fr:meta name="external">https://www.math.tecnico.ulisboa.pt/~jhuerta/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

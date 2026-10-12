@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:date>
+      <fr:year>2021</fr:year>
+    </fr:date>
+    <fr:uri>https://ruimp.com/pea21/</fr:uri>
+    <fr:display-uri>pea21</fr:display-uri>
+    <fr:route>/pea21/</fr:route>
+    <fr:title text="Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings">Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">University of Porto</fr:meta>
+    <fr:meta name="external">https://arxiv.org/abs/2106.01287</fr:meta>
+    <fr:meta name="external">https://doi.org/10.1103/PhysRevApplied.16.044041</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://ruimp.com/publications/</fr:uri>
+            <fr:display-uri>publications</fr:display-uri>
+            <fr:route>/publications/</fr:route>
+            <fr:title text="Publications">Publications</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="true">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:date>
+                  <fr:year>2021</fr:year>
+                </fr:date>
+                <fr:uri>https://ruimp.com/pea21/</fr:uri>
+                <fr:display-uri>pea21</fr:display-uri>
+                <fr:route>/pea21/</fr:route>
+                <fr:title text="Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings">Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings</fr:title>
+                <fr:taxon>Reference</fr:taxon>
+                <fr:meta name="venue">University of Porto</fr:meta>
+                <fr:meta name="external">https://arxiv.org/abs/2106.01287</fr:meta>
+                <fr:meta name="external">https://doi.org/10.1103/PhysRevApplied.16.044041</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
